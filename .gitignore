@@ -90,7 +90,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 # For bazel builds
-bazel-BaseProject/
-bazel-bin/
-bazel-out/
-bazel-testlogs/
+bazel-BaseProject
+bazel-bin
+bazel-out
+bazel-testlogs
