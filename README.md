@@ -3,9 +3,9 @@ The base iOS project build by bazel.
 
 # How to build:
 1. Install bazel:
-   ```py
-   brew install bazelisk
-   ```
+  ```py
+    brew install bazelisk
+  ```
 2. Build:
   ```py
     bazel build //BaseProject:BaseProject  
