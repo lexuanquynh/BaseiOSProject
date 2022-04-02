@@ -94,3 +94,6 @@ bazel-BaseProject
 bazel-bin
 bazel-out
 bazel-testlogs
+
+# Xcode project
+BaseApp.xcodeproj

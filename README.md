@@ -36,7 +36,7 @@ The base iOS project build by bazel.
  - -d: The folder where to install the Tulsi app into (Default is $HOME/Applications)
  - -x: The Xcode version Tulsi should be built for (Default is 13.2.1)
 
- 3. Run automatic generating:
+ 4. Run automatic generating:
  ```
 ./xcodegen tulsi_base_app
  ```
