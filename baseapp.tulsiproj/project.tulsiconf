@@ -1,0 +1,12 @@
+{
+  "configDefaults" : {
+    "optionSet" : {
+
+    }
+  },
+  "packages" : [
+    "BaseProject"
+  ],
+  "projectName" : "BaseApp",
+  "workspaceRoot" : ".."
+}
